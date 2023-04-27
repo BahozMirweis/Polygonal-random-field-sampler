@@ -237,5 +237,5 @@ void SampleRectangleMRFPRF::saveImage(int num) {
 		}
 	}
 
-	cv::imwrite("C:\\Users\\bahoz\\source\\repos\\Polygonal random field sampler\\x64\\Debug\\images\\Cat blur output " + std::to_string(num) + ".bmp", imageOut);
+	cv::imwrite("(file path)" + std::to_string(num) + ".bmp", imageOut);
 }
