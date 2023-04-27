@@ -23,7 +23,7 @@ int main()
     arma::arma_rng::set_seed(time);
 
     cv::setBreakOnError(true);
-    SampleRectangleMRFPRF s{ SampleRectangleMRFPRF(21.6, 25.5, "C:\\Users\\bahoz\\source\\repos\\Polygonal random field sampler\\x64\\Debug\\black cat blur.bmp") };
+    SampleRectangleMRFPRF s{ SampleRectangleMRFPRF(21.6, 25.5, "(Image path)") };
  
     s.SampleMRFPRF(5, 500);
 
