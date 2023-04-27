@@ -1,0 +1,163 @@
+﻿matplot.lib(axes_functions.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in Birth Site.obj
+matplot.lib(axes_functions.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in Birth Site.obj
+matplot.lib(figure_registry.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in Birth Site.obj
+matplot.lib(figure_registry.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in Birth Site.obj
+matplot.lib(axes_type.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in Birth Site.obj
+matplot.lib(axes_type.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in Birth Site.obj
+matplot.lib(figure_type.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in Birth Site.obj
+matplot.lib(figure_type.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in Birth Site.obj
+matplot.lib(axis_type.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in Birth Site.obj
+matplot.lib(axis_type.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in Birth Site.obj
+matplot.lib(legend.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in Birth Site.obj
+matplot.lib(legend.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in Birth Site.obj
+matplot.lib(axes_object.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in Birth Site.obj
+matplot.lib(axes_object.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in Birth Site.obj
+matplot.lib(gnuplot.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in Birth Site.obj
+matplot.lib(gnuplot.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in Birth Site.obj
+matplot.lib(colors.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in Birth Site.obj
+matplot.lib(colors.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in Birth Site.obj
+matplot.lib(line_spec.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in Birth Site.obj
+matplot.lib(line_spec.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in Birth Site.obj
+matplot.lib(line.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in Birth Site.obj
+matplot.lib(line.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in Birth Site.obj
+matplot.lib(error_bar.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in Birth Site.obj
+matplot.lib(error_bar.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in Birth Site.obj
+matplot.lib(function_line.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in Birth Site.obj
+matplot.lib(function_line.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in Birth Site.obj
+matplot.lib(common.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in Birth Site.obj
+matplot.lib(common.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in Birth Site.obj
+matplot.lib(histogram.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in Birth Site.obj
+matplot.lib(histogram.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in Birth Site.obj
+matplot.lib(contourc.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in Birth Site.obj
+matplot.lib(contourc.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in Birth Site.obj
+matplot.lib(world_map_10m.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in Birth Site.obj
+matplot.lib(world_map_10m.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in Birth Site.obj
+matplot.lib(world_map_50m.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in Birth Site.obj
+matplot.lib(world_map_50m.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in Birth Site.obj
+matplot.lib(world_map_110m.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in Birth Site.obj
+matplot.lib(world_map_110m.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in Birth Site.obj
+matplot.lib(bars.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in Birth Site.obj
+matplot.lib(bars.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in Birth Site.obj
+matplot.lib(box_chart.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in Birth Site.obj
+matplot.lib(box_chart.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in Birth Site.obj
+matplot.lib(circles.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in Birth Site.obj
+matplot.lib(circles.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in Birth Site.obj
+matplot.lib(contours.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in Birth Site.obj
+matplot.lib(contours.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in Birth Site.obj
+matplot.lib(filled_area.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in Birth Site.obj
+matplot.lib(filled_area.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in Birth Site.obj
+matplot.lib(labels.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in Birth Site.obj
+matplot.lib(labels.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in Birth Site.obj
+matplot.lib(matrix.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in Birth Site.obj
+matplot.lib(matrix.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in Birth Site.obj
+matplot.lib(network.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in Birth Site.obj
+matplot.lib(network.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in Birth Site.obj
+matplot.lib(parallel_lines.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in Birth Site.obj
+matplot.lib(parallel_lines.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in Birth Site.obj
+matplot.lib(stair.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in Birth Site.obj
+matplot.lib(stair.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in Birth Site.obj
+matplot.lib(string_function.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in Birth Site.obj
+matplot.lib(string_function.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in Birth Site.obj
+matplot.lib(surface.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in Birth Site.obj
+matplot.lib(surface.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in Birth Site.obj
+matplot.lib(vectors.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in Birth Site.obj
+matplot.lib(vectors.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in Birth Site.obj
+matplot.lib(histcounts.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in Birth Site.obj
+matplot.lib(histcounts.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in Birth Site.obj
+matplot.lib(backend_registry.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in Birth Site.obj
+matplot.lib(backend_registry.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in Birth Site.obj
+matplot.lib(backend_interface.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in Birth Site.obj
+matplot.lib(backend_interface.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in Birth Site.obj
+nodesoup.lib(nodesoup.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in Birth Site.obj
+nodesoup.lib(nodesoup.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in Birth Site.obj
+nodesoup.lib(fruchterman_reingold.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in Birth Site.obj
+nodesoup.lib(fruchterman_reingold.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in Birth Site.obj
+nodesoup.lib(kamada_kawai.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in Birth Site.obj
+nodesoup.lib(kamada_kawai.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in Birth Site.obj
+nodesoup.lib(layout.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in Birth Site.obj
+nodesoup.lib(layout.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in Birth Site.obj
+nodesoup.lib(algebra.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in Birth Site.obj
+nodesoup.lib(algebra.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in Birth Site.obj
+LINK : warning LNK4098: defaultlib 'MSVCRTD' conflicts with use of other libs; use /NODEFAULTLIB:library
+nodesoup.lib(nodesoup.obj) : error LNK2001: unresolved external symbol __imp__invalid_parameter
+nodesoup.lib(fruchterman_reingold.obj) : error LNK2001: unresolved external symbol __imp__invalid_parameter
+nodesoup.lib(kamada_kawai.obj) : error LNK2001: unresolved external symbol __imp__invalid_parameter
+nodesoup.lib(layout.obj) : error LNK2001: unresolved external symbol __imp__invalid_parameter
+matplot.lib(surface.obj) : error LNK2001: unresolved external symbol __imp__invalid_parameter
+matplot.lib(vectors.obj) : error LNK2001: unresolved external symbol __imp__invalid_parameter
+matplot.lib(histcounts.obj) : error LNK2001: unresolved external symbol __imp__invalid_parameter
+matplot.lib(backend_interface.obj) : error LNK2001: unresolved external symbol __imp__invalid_parameter
+matplot.lib(network.obj) : error LNK2001: unresolved external symbol __imp__invalid_parameter
+matplot.lib(parallel_lines.obj) : error LNK2001: unresolved external symbol __imp__invalid_parameter
+matplot.lib(stair.obj) : error LNK2001: unresolved external symbol __imp__invalid_parameter
+matplot.lib(string_function.obj) : error LNK2001: unresolved external symbol __imp__invalid_parameter
+matplot.lib(contours.obj) : error LNK2001: unresolved external symbol __imp__invalid_parameter
+matplot.lib(filled_area.obj) : error LNK2001: unresolved external symbol __imp__invalid_parameter
+matplot.lib(labels.obj) : error LNK2001: unresolved external symbol __imp__invalid_parameter
+matplot.lib(matrix.obj) : error LNK2001: unresolved external symbol __imp__invalid_parameter
+matplot.lib(world_map_110m.obj) : error LNK2001: unresolved external symbol __imp__invalid_parameter
+matplot.lib(bars.obj) : error LNK2001: unresolved external symbol __imp__invalid_parameter
+matplot.lib(box_chart.obj) : error LNK2001: unresolved external symbol __imp__invalid_parameter
+matplot.lib(circles.obj) : error LNK2001: unresolved external symbol __imp__invalid_parameter
+matplot.lib(function_line.obj) : error LNK2001: unresolved external symbol __imp__invalid_parameter
+matplot.lib(common.obj) : error LNK2001: unresolved external symbol __imp__invalid_parameter
+matplot.lib(histogram.obj) : error LNK2001: unresolved external symbol __imp__invalid_parameter
+matplot.lib(contourc.obj) : error LNK2001: unresolved external symbol __imp__invalid_parameter
+matplot.lib(colors.obj) : error LNK2001: unresolved external symbol __imp__invalid_parameter
+matplot.lib(line_spec.obj) : error LNK2001: unresolved external symbol __imp__invalid_parameter
+matplot.lib(line.obj) : error LNK2001: unresolved external symbol __imp__invalid_parameter
+matplot.lib(error_bar.obj) : error LNK2001: unresolved external symbol __imp__invalid_parameter
+matplot.lib(axis_type.obj) : error LNK2001: unresolved external symbol __imp__invalid_parameter
+matplot.lib(legend.obj) : error LNK2001: unresolved external symbol __imp__invalid_parameter
+matplot.lib(axes_object.obj) : error LNK2001: unresolved external symbol __imp__invalid_parameter
+matplot.lib(gnuplot.obj) : error LNK2001: unresolved external symbol __imp__invalid_parameter
+matplot.lib(axes_functions.obj) : error LNK2001: unresolved external symbol __imp__invalid_parameter
+matplot.lib(figure_registry.obj) : error LNK2001: unresolved external symbol __imp__invalid_parameter
+matplot.lib(axes_type.obj) : error LNK2001: unresolved external symbol __imp__invalid_parameter
+matplot.lib(figure_type.obj) : error LNK2001: unresolved external symbol __imp__invalid_parameter
+nodesoup.lib(nodesoup.obj) : error LNK2001: unresolved external symbol __imp__CrtDbgReport
+nodesoup.lib(fruchterman_reingold.obj) : error LNK2001: unresolved external symbol __imp__CrtDbgReport
+nodesoup.lib(kamada_kawai.obj) : error LNK2001: unresolved external symbol __imp__CrtDbgReport
+nodesoup.lib(layout.obj) : error LNK2001: unresolved external symbol __imp__CrtDbgReport
+matplot.lib(surface.obj) : error LNK2001: unresolved external symbol __imp__CrtDbgReport
+matplot.lib(vectors.obj) : error LNK2001: unresolved external symbol __imp__CrtDbgReport
+matplot.lib(histcounts.obj) : error LNK2001: unresolved external symbol __imp__CrtDbgReport
+matplot.lib(backend_interface.obj) : error LNK2001: unresolved external symbol __imp__CrtDbgReport
+matplot.lib(network.obj) : error LNK2001: unresolved external symbol __imp__CrtDbgReport
+matplot.lib(parallel_lines.obj) : error LNK2001: unresolved external symbol __imp__CrtDbgReport
+matplot.lib(stair.obj) : error LNK2001: unresolved external symbol __imp__CrtDbgReport
+matplot.lib(string_function.obj) : error LNK2001: unresolved external symbol __imp__CrtDbgReport
+matplot.lib(contours.obj) : error LNK2001: unresolved external symbol __imp__CrtDbgReport
+matplot.lib(filled_area.obj) : error LNK2001: unresolved external symbol __imp__CrtDbgReport
+matplot.lib(labels.obj) : error LNK2001: unresolved external symbol __imp__CrtDbgReport
+matplot.lib(matrix.obj) : error LNK2001: unresolved external symbol __imp__CrtDbgReport
+matplot.lib(world_map_110m.obj) : error LNK2001: unresolved external symbol __imp__CrtDbgReport
+matplot.lib(bars.obj) : error LNK2001: unresolved external symbol __imp__CrtDbgReport
+matplot.lib(box_chart.obj) : error LNK2001: unresolved external symbol __imp__CrtDbgReport
+matplot.lib(circles.obj) : error LNK2001: unresolved external symbol __imp__CrtDbgReport
+matplot.lib(function_line.obj) : error LNK2001: unresolved external symbol __imp__CrtDbgReport
+matplot.lib(common.obj) : error LNK2001: unresolved external symbol __imp__CrtDbgReport
+matplot.lib(histogram.obj) : error LNK2001: unresolved external symbol __imp__CrtDbgReport
+matplot.lib(contourc.obj) : error LNK2001: unresolved external symbol __imp__CrtDbgReport
+matplot.lib(colors.obj) : error LNK2001: unresolved external symbol __imp__CrtDbgReport
+matplot.lib(line_spec.obj) : error LNK2001: unresolved external symbol __imp__CrtDbgReport
+matplot.lib(line.obj) : error LNK2001: unresolved external symbol __imp__CrtDbgReport
+matplot.lib(error_bar.obj) : error LNK2001: unresolved external symbol __imp__CrtDbgReport
+matplot.lib(axis_type.obj) : error LNK2001: unresolved external symbol __imp__CrtDbgReport
+matplot.lib(legend.obj) : error LNK2001: unresolved external symbol __imp__CrtDbgReport
+matplot.lib(axes_object.obj) : error LNK2001: unresolved external symbol __imp__CrtDbgReport
+matplot.lib(gnuplot.obj) : error LNK2001: unresolved external symbol __imp__CrtDbgReport
+matplot.lib(axes_functions.obj) : error LNK2001: unresolved external symbol __imp__CrtDbgReport
+matplot.lib(figure_registry.obj) : error LNK2001: unresolved external symbol __imp__CrtDbgReport
+matplot.lib(axes_type.obj) : error LNK2001: unresolved external symbol __imp__CrtDbgReport
+matplot.lib(figure_type.obj) : error LNK2001: unresolved external symbol __imp__CrtDbgReport
+matplot.lib(vectors.obj) : error LNK2001: unresolved external symbol __imp__calloc_dbg
+matplot.lib(contours.obj) : error LNK2001: unresolved external symbol __imp__calloc_dbg
+matplot.lib(network.obj) : error LNK2001: unresolved external symbol __imp__calloc_dbg
+matplot.lib(parallel_lines.obj) : error LNK2001: unresolved external symbol __imp__calloc_dbg
+matplot.lib(surface.obj) : error LNK2001: unresolved external symbol __imp__calloc_dbg
+matplot.lib(axes_type.obj) : error LNK2001: unresolved external symbol __imp__calloc_dbg
+matplot.lib(gnuplot.obj) : error LNK2001: unresolved external symbol __imp__calloc_dbg
+matplot.lib(line.obj) : error LNK2001: unresolved external symbol __imp__calloc_dbg
+matplot.lib(common.obj) : error LNK2001: unresolved external symbol __imp__calloc_dbg
+C:\Users\bahoz\source\repos\Polygonal random field sampler\x64\Release\Polygonal random field sampler.exe : fatal error LNK1120: 3 unresolved externals

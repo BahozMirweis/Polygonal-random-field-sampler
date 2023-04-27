@@ -1,0 +1,269 @@
+{
+  "version": "2.1.0",
+  "$schema": "https://schemastore.azurewebsites.net/schemas/json/sarif-2.1.0-rtm.5.json",
+  "runs": [
+    {
+      "results": [
+        {
+          "ruleId": "C26451",
+          "message": {
+            "text": "Arithmetic overflow: Using operator '-' on a 4 byte value and then casting the result to a 8 byte value. Cast the value to the wider type before calling operator '-' to avoid overflow (io.2)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/bahoz/source/repos/Polygonal random field sampler/Polygonal random field sampler/Markov Random Field.cpp"
+                },
+                "region": {
+                  "startLine": 22,
+                  "startColumn": 24,
+                  "endLine": 22,
+                  "endColumn": 30
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "MarkovRandomField::localCharacteristic",
+                  "decoratedName": "?localCharacteristic@MarkovRandomField@@QEAANHHN@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C26451",
+          "message": {
+            "text": "Arithmetic overflow: Using operator '+' on a 4 byte value and then casting the result to a 8 byte value. Cast the value to the wider type before calling operator '+' to avoid overflow (io.2)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/bahoz/source/repos/Polygonal random field sampler/Polygonal random field sampler/Markov Random Field.cpp"
+                },
+                "region": {
+                  "startLine": 26,
+                  "startColumn": 24,
+                  "endLine": 26,
+                  "endColumn": 30
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "MarkovRandomField::localCharacteristic",
+                  "decoratedName": "?localCharacteristic@MarkovRandomField@@QEAANHHN@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C26451",
+          "message": {
+            "text": "Arithmetic overflow: Using operator '-' on a 4 byte value and then casting the result to a 8 byte value. Cast the value to the wider type before calling operator '-' to avoid overflow (io.2)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/bahoz/source/repos/Polygonal random field sampler/Polygonal random field sampler/Markov Random Field.cpp"
+                },
+                "region": {
+                  "startLine": 30,
+                  "startColumn": 29,
+                  "endLine": 30,
+                  "endColumn": 33
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "MarkovRandomField::localCharacteristic",
+                  "decoratedName": "?localCharacteristic@MarkovRandomField@@QEAANHHN@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C26451",
+          "message": {
+            "text": "Arithmetic overflow: Using operator '+' on a 4 byte value and then casting the result to a 8 byte value. Cast the value to the wider type before calling operator '+' to avoid overflow (io.2)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/bahoz/source/repos/Polygonal random field sampler/Polygonal random field sampler/Markov Random Field.cpp"
+                },
+                "region": {
+                  "startLine": 34,
+                  "startColumn": 29,
+                  "endLine": 34,
+                  "endColumn": 35
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "MarkovRandomField::localCharacteristic",
+                  "decoratedName": "?localCharacteristic@MarkovRandomField@@QEAANHHN@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C26451",
+          "message": {
+            "text": "Arithmetic overflow: Using operator '+' on a 4 byte value and then casting the result to a 8 byte value. Cast the value to the wider type before calling operator '+' to avoid overflow (io.2)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/bahoz/source/repos/Polygonal random field sampler/Polygonal random field sampler/Markov Random Field.cpp"
+                },
+                "region": {
+                  "startLine": 142,
+                  "startColumn": 22,
+                  "endLine": 142,
+                  "endColumn": 26
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "MarkovRandomField::PRFPotentialFunction",
+                  "decoratedName": "?PRFPotentialFunction@MarkovRandomField@@QEAANXZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C26451",
+          "message": {
+            "text": "Arithmetic overflow: Using operator '-' on a 4 byte value and then casting the result to a 8 byte value. Cast the value to the wider type before calling operator '-' to avoid overflow (io.2)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/bahoz/source/repos/Polygonal random field sampler/Polygonal random field sampler/Markov Random Field.cpp"
+                },
+                "region": {
+                  "startLine": 142,
+                  "startColumn": 16,
+                  "endLine": 142,
+                  "endColumn": 51
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "MarkovRandomField::PRFPotentialFunction",
+                  "decoratedName": "?PRFPotentialFunction@MarkovRandomField@@QEAANXZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C26451",
+          "message": {
+            "text": "Arithmetic overflow: Using operator '+' on a 4 byte value and then casting the result to a 8 byte value. Cast the value to the wider type before calling operator '+' to avoid overflow (io.2)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/bahoz/source/repos/Polygonal random field sampler/Polygonal random field sampler/Markov Random Field.cpp"
+                },
+                "region": {
+                  "startLine": 146,
+                  "startColumn": 25,
+                  "endLine": 146,
+                  "endColumn": 29
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "MarkovRandomField::PRFPotentialFunction",
+                  "decoratedName": "?PRFPotentialFunction@MarkovRandomField@@QEAANXZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C26451",
+          "message": {
+            "text": "Arithmetic overflow: Using operator '-' on a 4 byte value and then casting the result to a 8 byte value. Cast the value to the wider type before calling operator '-' to avoid overflow (io.2)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/bahoz/source/repos/Polygonal random field sampler/Polygonal random field sampler/Markov Random Field.cpp"
+                },
+                "region": {
+                  "startLine": 146,
+                  "startColumn": 16,
+                  "endLine": 146,
+                  "endColumn": 51
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "MarkovRandomField::PRFPotentialFunction",
+                  "decoratedName": "?PRFPotentialFunction@MarkovRandomField@@QEAANXZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "tool": {
+        "driver": {
+          "name": "PREfast",
+          "fullName": "PREfast Code Analysis",
+          "version": "14.35.32217.1",
+          "informationUri": "https://aka.ms/cpp/ca"
+        }
+      },
+      "invocations": [
+        {
+          "executionSuccessful": true
+        }
+      ],
+      "artifacts": [
+        {
+          "location": {
+            "uri": "file:///C:/Users/bahoz/source/repos/Polygonal random field sampler/Polygonal random field sampler/Markov Random Field.cpp"
+          },
+          "roles": [
+            "analysisTarget",
+            "resultFile"
+          ],
+          "hashes": {
+            "sha-256": "4d1550cd56dbbbf65a7c0a91949e637d586e00c32949618e295aa89e9aaedd23"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/bahoz/source/repos/polygonal random field sampler/polygonal random field sampler/markov random field.h"
+          },
+          "hashes": {
+            "sha-256": "e70df9d718b1fc9865a2436f7d94eeff683e49e219e8035f1f398e1f9588e540"
+          }
+        }
+      ]
+    }
+  ]
+}

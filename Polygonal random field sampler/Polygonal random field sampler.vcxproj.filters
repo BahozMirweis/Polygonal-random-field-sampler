@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Source Files\Particle Dynamics">
+      <UniqueIdentifier>{57e74ddb-0102-40dc-b10b-af8e10daab14}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\MH algorithm">
+      <UniqueIdentifier>{b3c094d0-ecec-4a6b-b0bd-5c62a27e070c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Dynamic Sampling">
+      <UniqueIdentifier>{0caf273f-5079-42d6-81c1-256d5fcd5ac5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Image reconstruction">
+      <UniqueIdentifier>{87ced6ab-9aff-459f-9fee-9540f8e8ad9c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Dynamic Sampling v2">
+      <UniqueIdentifier>{f4b6b720-328c-47bf-82bc-cd06704ef66d}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Particle.cpp">
+      <Filter>Source Files\Particle Dynamics</Filter>
+    </ClCompile>
+    <ClCompile Include="Metropolis Hastings.cpp">
+      <Filter>Source Files\MH algorithm</Filter>
+    </ClCompile>
+    <ClCompile Include="Birth Site old.cpp">
+      <Filter>Source Files\Dynamic Sampling</Filter>
+    </ClCompile>
+    <ClCompile Include="Dynamic Graph.cpp">
+      <Filter>Source Files\Dynamic Sampling</Filter>
+    </ClCompile>
+    <ClCompile Include="SampleRectangle.cpp">
+      <Filter>Source Files\Dynamic Sampling</Filter>
+    </ClCompile>
+    <ClCompile Include="Markov Random Field.cpp">
+      <Filter>Source Files\Image reconstruction</Filter>
+    </ClCompile>
+    <ClCompile Include="SampleRectangleMRFPRF.cpp">
+      <Filter>Source Files\Image reconstruction</Filter>
+    </ClCompile>
+    <ClCompile Include="Dynamic Tessellation.cpp">
+      <Filter>Source Files\Dynamic Sampling v2</Filter>
+    </ClCompile>
+    <ClCompile Include="Birth Site.cpp">
+      <Filter>Source Files\Dynamic Sampling v2</Filter>
+    </ClCompile>
+    <ClCompile Include="SamplePRFRectangle.cpp">
+      <Filter>Source Files\Dynamic Sampling v2</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Particle.h">
+      <Filter>Source Files\Particle Dynamics</Filter>
+    </ClInclude>
+    <ClInclude Include="Metropolis Hastings.h">
+      <Filter>Source Files\MH algorithm</Filter>
+    </ClInclude>
+    <ClInclude Include="Birth Site old.h">
+      <Filter>Source Files\Dynamic Sampling</Filter>
+    </ClInclude>
+    <ClInclude Include="Dynamic Graph.h">
+      <Filter>Source Files\Dynamic Sampling</Filter>
+    </ClInclude>
+    <ClInclude Include="SampleRectangle.h">
+      <Filter>Source Files\Dynamic Sampling</Filter>
+    </ClInclude>
+    <ClInclude Include="Markov Random Field.h">
+      <Filter>Source Files\Image reconstruction</Filter>
+    </ClInclude>
+    <ClInclude Include="SampleRectangleMRFPRF.h">
+      <Filter>Source Files\Image reconstruction</Filter>
+    </ClInclude>
+    <ClInclude Include="Dynamic Tessellation.h">
+      <Filter>Source Files\Dynamic Sampling v2</Filter>
+    </ClInclude>
+    <ClInclude Include="Birth Site.h">
+      <Filter>Source Files\Dynamic Sampling v2</Filter>
+    </ClInclude>
+    <ClInclude Include="SamplePRFRectangle.h">
+      <Filter>Source Files\Dynamic Sampling v2</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

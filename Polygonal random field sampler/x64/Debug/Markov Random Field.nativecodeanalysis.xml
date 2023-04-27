@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\bahoz\source\repos\Polygonal random field sampler\Polygonal random field sampler\</FILEPATH>
+      <FILENAME>Markov Random Field.cpp</FILENAME>
+      <LINE>22</LINE>
+      <COLUMN>27</COLUMN>
+    </SFA>
+    <DEFECTCODE>26451</DEFECTCODE>
+    <DESCRIPTION>Arithmetic overflow: Using operator '-' on a 4 byte value and then casting the result to a 8 byte value. Cast the value to the wider type before calling operator '-' to avoid overflow (io.2).</DESCRIPTION>
+    <FUNCTION>MarkovRandomField::localCharacteristic</FUNCTION>
+    <DECORATED>?localCharacteristic@MarkovRandomField@@QEAANHHN@Z</DECORATED>
+    <FUNCLINE>19</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\bahoz\source\repos\Polygonal random field sampler\Polygonal random field sampler\</FILEPATH>
+      <FILENAME>Markov Random Field.cpp</FILENAME>
+      <LINE>26</LINE>
+      <COLUMN>27</COLUMN>
+    </SFA>
+    <DEFECTCODE>26451</DEFECTCODE>
+    <DESCRIPTION>Arithmetic overflow: Using operator '+' on a 4 byte value and then casting the result to a 8 byte value. Cast the value to the wider type before calling operator '+' to avoid overflow (io.2).</DESCRIPTION>
+    <FUNCTION>MarkovRandomField::localCharacteristic</FUNCTION>
+    <DECORATED>?localCharacteristic@MarkovRandomField@@QEAANHHN@Z</DECORATED>
+    <FUNCLINE>19</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\bahoz\source\repos\Polygonal random field sampler\Polygonal random field sampler\</FILEPATH>
+      <FILENAME>Markov Random Field.cpp</FILENAME>
+      <LINE>30</LINE>
+      <COLUMN>31</COLUMN>
+    </SFA>
+    <DEFECTCODE>26451</DEFECTCODE>
+    <DESCRIPTION>Arithmetic overflow: Using operator '-' on a 4 byte value and then casting the result to a 8 byte value. Cast the value to the wider type before calling operator '-' to avoid overflow (io.2).</DESCRIPTION>
+    <FUNCTION>MarkovRandomField::localCharacteristic</FUNCTION>
+    <DECORATED>?localCharacteristic@MarkovRandomField@@QEAANHHN@Z</DECORATED>
+    <FUNCLINE>19</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\bahoz\source\repos\Polygonal random field sampler\Polygonal random field sampler\</FILEPATH>
+      <FILENAME>Markov Random Field.cpp</FILENAME>
+      <LINE>34</LINE>
+      <COLUMN>32</COLUMN>
+    </SFA>
+    <DEFECTCODE>26451</DEFECTCODE>
+    <DESCRIPTION>Arithmetic overflow: Using operator '+' on a 4 byte value and then casting the result to a 8 byte value. Cast the value to the wider type before calling operator '+' to avoid overflow (io.2).</DESCRIPTION>
+    <FUNCTION>MarkovRandomField::localCharacteristic</FUNCTION>
+    <DECORATED>?localCharacteristic@MarkovRandomField@@QEAANHHN@Z</DECORATED>
+    <FUNCLINE>19</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\bahoz\source\repos\Polygonal random field sampler\Polygonal random field sampler\</FILEPATH>
+      <FILENAME>Markov Random Field.cpp</FILENAME>
+      <LINE>142</LINE>
+      <COLUMN>23</COLUMN>
+    </SFA>
+    <DEFECTCODE>26451</DEFECTCODE>
+    <DESCRIPTION>Arithmetic overflow: Using operator '+' on a 4 byte value and then casting the result to a 8 byte value. Cast the value to the wider type before calling operator '+' to avoid overflow (io.2).</DESCRIPTION>
+    <FUNCTION>MarkovRandomField::PRFPotentialFunction</FUNCTION>
+    <DECORATED>?PRFPotentialFunction@MarkovRandomField@@QEAANXZ</DECORATED>
+    <FUNCLINE>136</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\bahoz\source\repos\Polygonal random field sampler\Polygonal random field sampler\</FILEPATH>
+      <FILENAME>Markov Random Field.cpp</FILENAME>
+      <LINE>142</LINE>
+      <COLUMN>37</COLUMN>
+    </SFA>
+    <DEFECTCODE>26451</DEFECTCODE>
+    <DESCRIPTION>Arithmetic overflow: Using operator '-' on a 4 byte value and then casting the result to a 8 byte value. Cast the value to the wider type before calling operator '-' to avoid overflow (io.2).</DESCRIPTION>
+    <FUNCTION>MarkovRandomField::PRFPotentialFunction</FUNCTION>
+    <DECORATED>?PRFPotentialFunction@MarkovRandomField@@QEAANXZ</DECORATED>
+    <FUNCLINE>136</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\bahoz\source\repos\Polygonal random field sampler\Polygonal random field sampler\</FILEPATH>
+      <FILENAME>Markov Random Field.cpp</FILENAME>
+      <LINE>146</LINE>
+      <COLUMN>26</COLUMN>
+    </SFA>
+    <DEFECTCODE>26451</DEFECTCODE>
+    <DESCRIPTION>Arithmetic overflow: Using operator '+' on a 4 byte value and then casting the result to a 8 byte value. Cast the value to the wider type before calling operator '+' to avoid overflow (io.2).</DESCRIPTION>
+    <FUNCTION>MarkovRandomField::PRFPotentialFunction</FUNCTION>
+    <DECORATED>?PRFPotentialFunction@MarkovRandomField@@QEAANXZ</DECORATED>
+    <FUNCLINE>136</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\bahoz\source\repos\Polygonal random field sampler\Polygonal random field sampler\</FILEPATH>
+      <FILENAME>Markov Random Field.cpp</FILENAME>
+      <LINE>146</LINE>
+      <COLUMN>37</COLUMN>
+    </SFA>
+    <DEFECTCODE>26451</DEFECTCODE>
+    <DESCRIPTION>Arithmetic overflow: Using operator '-' on a 4 byte value and then casting the result to a 8 byte value. Cast the value to the wider type before calling operator '-' to avoid overflow (io.2).</DESCRIPTION>
+    <FUNCTION>MarkovRandomField::PRFPotentialFunction</FUNCTION>
+    <DECORATED>?PRFPotentialFunction@MarkovRandomField@@QEAANXZ</DECORATED>
+    <FUNCLINE>136</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>
